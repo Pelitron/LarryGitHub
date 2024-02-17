@@ -6,3 +6,4 @@
 * Larry Plotter y El Malware de Fuego
 * Larry pLotter y la Orden de Unix
 * Larry Plotter y el Misterio del Hacker
+* Larry Plotter y los Commits de la Muerte
